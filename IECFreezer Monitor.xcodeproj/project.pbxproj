@@ -7,6 +7,36 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1C05F0591BC69C1700D39D82 /* Appicon29x29.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F04F1BC69C1700D39D82 /* Appicon29x29.png */; };
+		1C05F05A1BC69C1700D39D82 /* Appicon29x29.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F04F1BC69C1700D39D82 /* Appicon29x29.png */; };
+		1C05F05B1BC69C1700D39D82 /* Appicon29x29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F0501BC69C1700D39D82 /* Appicon29x29@2x.png */; };
+		1C05F05C1BC69C1700D39D82 /* Appicon29x29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F0501BC69C1700D39D82 /* Appicon29x29@2x.png */; };
+		1C05F05D1BC69C1700D39D82 /* Appicon29x29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F0511BC69C1700D39D82 /* Appicon29x29@3x.png */; };
+		1C05F05E1BC69C1700D39D82 /* Appicon29x29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F0511BC69C1700D39D82 /* Appicon29x29@3x.png */; };
+		1C05F05F1BC69C1700D39D82 /* Appicon40x40.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F0521BC69C1700D39D82 /* Appicon40x40.png */; };
+		1C05F0601BC69C1700D39D82 /* Appicon40x40.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F0521BC69C1700D39D82 /* Appicon40x40.png */; };
+		1C05F0611BC69C1700D39D82 /* Appicon40x40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F0531BC69C1700D39D82 /* Appicon40x40@2x.png */; };
+		1C05F0621BC69C1700D39D82 /* Appicon40x40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F0531BC69C1700D39D82 /* Appicon40x40@2x.png */; };
+		1C05F0631BC69C1700D39D82 /* Appicon40x40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F0541BC69C1700D39D82 /* Appicon40x40@3x.png */; };
+		1C05F0641BC69C1700D39D82 /* Appicon40x40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F0541BC69C1700D39D82 /* Appicon40x40@3x.png */; };
+		1C05F0651BC69C1700D39D82 /* Appicon60x60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F0551BC69C1700D39D82 /* Appicon60x60@2x.png */; };
+		1C05F0661BC69C1700D39D82 /* Appicon60x60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F0551BC69C1700D39D82 /* Appicon60x60@2x.png */; };
+		1C05F0671BC69C1700D39D82 /* Appicon60x60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F0561BC69C1700D39D82 /* Appicon60x60@3x.png */; };
+		1C05F0681BC69C1700D39D82 /* Appicon60x60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F0561BC69C1700D39D82 /* Appicon60x60@3x.png */; };
+		1C05F0691BC69C1700D39D82 /* Appicon76x76.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F0571BC69C1700D39D82 /* Appicon76x76.png */; };
+		1C05F06A1BC69C1700D39D82 /* Appicon76x76.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F0571BC69C1700D39D82 /* Appicon76x76.png */; };
+		1C05F06B1BC69C1700D39D82 /* Appicon76x76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F0581BC69C1700D39D82 /* Appicon76x76@2x.png */; };
+		1C05F06C1BC69C1700D39D82 /* Appicon76x76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F0581BC69C1700D39D82 /* Appicon76x76@2x.png */; };
+		1C05F0711BC69DD500D39D82 /* Appicon24x24@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F06D1BC69DD500D39D82 /* Appicon24x24@2x.png */; };
+		1C05F0721BC69DD500D39D82 /* Appicon24x24@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F06D1BC69DD500D39D82 /* Appicon24x24@2x.png */; };
+		1C05F0731BC69DD500D39D82 /* Appicon44x44@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F06E1BC69DD500D39D82 /* Appicon44x44@2x.png */; };
+		1C05F0741BC69DD500D39D82 /* Appicon44x44@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F06E1BC69DD500D39D82 /* Appicon44x44@2x.png */; };
+		1C05F0751BC69DD500D39D82 /* Appicon86x86@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F06F1BC69DD500D39D82 /* Appicon86x86@2x.png */; };
+		1C05F0761BC69DD500D39D82 /* Appicon86x86@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F06F1BC69DD500D39D82 /* Appicon86x86@2x.png */; };
+		1C05F0771BC69DD500D39D82 /* Appicon98x98@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F0701BC69DD500D39D82 /* Appicon98x98@2x.png */; };
+		1C05F0781BC69DD500D39D82 /* Appicon98x98@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F0701BC69DD500D39D82 /* Appicon98x98@2x.png */; };
+		1C05F07A1BC69DF300D39D82 /* Appicon27x27@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F0791BC69DF300D39D82 /* Appicon27x27@2x.png */; };
+		1C05F07B1BC69DF300D39D82 /* Appicon27x27@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C05F0791BC69DF300D39D82 /* Appicon27x27@2x.png */; };
 		1C3653DE1BC63302006239BE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C3653DD1BC63302006239BE /* main.m */; };
 		1C3653E11BC63302006239BE /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C3653E01BC63302006239BE /* AppDelegate.m */; };
 		1C3653E41BC63302006239BE /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C3653E31BC63302006239BE /* ViewController.m */; };
@@ -14,6 +44,41 @@
 		1C3653E91BC63302006239BE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C3653E81BC63302006239BE /* Images.xcassets */; };
 		1C3653EC1BC63302006239BE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1C3653EA1BC63302006239BE /* LaunchScreen.xib */; };
 		1C3653F81BC63302006239BE /* IECFreezer_MonitorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C3653F71BC63302006239BE /* IECFreezer_MonitorTests.m */; };
+		1C36540C1BC635BA006239BE /* InterfaceController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C36540B1BC635BA006239BE /* InterfaceController.m */; };
+		1C36540E1BC635BA006239BE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C36540D1BC635BA006239BE /* Images.xcassets */; };
+		1C3654121BC635BA006239BE /* IECFreezer Monitor WatchKit App.app in Resources */ = {isa = PBXBuildFile; fileRef = 1C3654111BC635BA006239BE /* IECFreezer Monitor WatchKit App.app */; };
+		1C36541A1BC635BA006239BE /* Interface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C3654181BC635BA006239BE /* Interface.storyboard */; };
+		1C36541C1BC635BA006239BE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C36541B1BC635BA006239BE /* Images.xcassets */; };
+		1C36541F1BC635BA006239BE /* IECFreezer Monitor WatchKit Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 1C3654061BC635BA006239BE /* IECFreezer Monitor WatchKit Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		1C36543F1BC638F7006239BE /* NKColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C36542C1BC638F7006239BE /* NKColor.m */; };
+		1C3654401BC638F7006239BE /* NKLineChart.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C36542E1BC638F7006239BE /* NKLineChart.m */; };
+		1C3654411BC638F7006239BE /* NKLineChartData.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C3654301BC638F7006239BE /* NKLineChartData.m */; };
+		1C3654421BC638F7006239BE /* NKLineChartDataItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C3654321BC638F7006239BE /* NKLineChartDataItem.m */; };
+		1C3654431BC638F7006239BE /* NKBarChart.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C3654341BC638F7006239BE /* NKBarChart.m */; };
+		1C3654441BC638F7006239BE /* NKPieChart.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C3654361BC638F7006239BE /* NKPieChart.m */; };
+		1C3654451BC638F7006239BE /* NKPieChartDataItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C3654381BC638F7006239BE /* NKPieChartDataItem.m */; };
+		1C3654461BC638F7006239BE /* NKCircleChart.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C36543A1BC638F7006239BE /* NKCircleChart.m */; };
+		1C3654471BC638F7006239BE /* NKRadarChart.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C36543C1BC638F7006239BE /* NKRadarChart.m */; };
+		1C3654481BC638F7006239BE /* NKRadarChartDataItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C36543E1BC638F7006239BE /* NKRadarChartDataItem.m */; };
+		1C36CD8E1BD0CA0A00FE3C1D /* thermameter.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C36CD8D1BD0CA0A00FE3C1D /* thermameter.png */; };
+		1C36CD8F1BD0CA0A00FE3C1D /* thermameter.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C36CD8D1BD0CA0A00FE3C1D /* thermameter.png */; };
+		1C36CD911BD0CA6700FE3C1D /* thermo.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C36CD901BD0CA6700FE3C1D /* thermo.png */; };
+		1C36CD921BD0CA6700FE3C1D /* thermo.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C36CD901BD0CA6700FE3C1D /* thermo.png */; };
+		1C36CD941BD0CC9500FE3C1D /* thermo_30x30.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C36CD931BD0CC9500FE3C1D /* thermo_30x30.png */; };
+		1C36CD951BD0CC9500FE3C1D /* thermo_30x30.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C36CD931BD0CC9500FE3C1D /* thermo_30x30.png */; };
+		1C3FA9AB1BCFA4700046DC38 /* green_heart.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C3FA9A71BCFA4700046DC38 /* green_heart.png */; };
+		1C3FA9AC1BCFA4700046DC38 /* green_heart.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C3FA9A71BCFA4700046DC38 /* green_heart.png */; };
+		1C3FA9AD1BCFA4700046DC38 /* Receive.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1C3FA9A81BCFA4700046DC38 /* Receive.mp3 */; };
+		1C3FA9AE1BCFA4700046DC38 /* Receive.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1C3FA9A81BCFA4700046DC38 /* Receive.mp3 */; };
+		1C3FA9AF1BCFA4700046DC38 /* red_heart.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C3FA9A91BCFA4700046DC38 /* red_heart.png */; };
+		1C3FA9B01BCFA4700046DC38 /* red_heart.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C3FA9A91BCFA4700046DC38 /* red_heart.png */; };
+		1C3FA9B11BCFA4700046DC38 /* yellow_heart.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C3FA9AA1BCFA4700046DC38 /* yellow_heart.png */; };
+		1C3FA9B21BCFA4700046DC38 /* yellow_heart.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C3FA9AA1BCFA4700046DC38 /* yellow_heart.png */; };
+		1C44176E1BC78D2A00D6A904 /* NKCircleChart.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C36543A1BC638F7006239BE /* NKCircleChart.m */; };
+		1C44176F1BC78D6200D6A904 /* alert.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CC3B0D71BC67900008A676B /* alert.png */; };
+		1C4417711BC78D6800D6A904 /* fire_alarm.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CC3B0D81BC67900008A676B /* fire_alarm.png */; };
+		1CC3B0DA1BC67900008A676B /* alert.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CC3B0D71BC67900008A676B /* alert.png */; };
+		1CC3B0DB1BC67900008A676B /* fire_alarm.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CC3B0D81BC67900008A676B /* fire_alarm.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -24,9 +89,52 @@
 			remoteGlobalIDString = 1C3653D71BC63302006239BE;
 			remoteInfo = "IECFreezer Monitor";
 		};
+		1C3654131BC635BA006239BE /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 1C3653D01BC63302006239BE /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1C3654101BC635BA006239BE;
+			remoteInfo = "IECFreezer Monitor WatchKit App";
+		};
+		1C36541D1BC635BA006239BE /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 1C3653D01BC63302006239BE /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1C3654051BC635BA006239BE;
+			remoteInfo = "IECFreezer Monitor WatchKit Extension";
+		};
 /* End PBXContainerItemProxy section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		1C3654261BC635BA006239BE /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				1C36541F1BC635BA006239BE /* IECFreezer Monitor WatchKit Extension.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
+		1C05F04F1BC69C1700D39D82 /* Appicon29x29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Appicon29x29.png; sourceTree = "<group>"; };
+		1C05F0501BC69C1700D39D82 /* Appicon29x29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Appicon29x29@2x.png"; sourceTree = "<group>"; };
+		1C05F0511BC69C1700D39D82 /* Appicon29x29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Appicon29x29@3x.png"; sourceTree = "<group>"; };
+		1C05F0521BC69C1700D39D82 /* Appicon40x40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Appicon40x40.png; sourceTree = "<group>"; };
+		1C05F0531BC69C1700D39D82 /* Appicon40x40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Appicon40x40@2x.png"; sourceTree = "<group>"; };
+		1C05F0541BC69C1700D39D82 /* Appicon40x40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Appicon40x40@3x.png"; sourceTree = "<group>"; };
+		1C05F0551BC69C1700D39D82 /* Appicon60x60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Appicon60x60@2x.png"; sourceTree = "<group>"; };
+		1C05F0561BC69C1700D39D82 /* Appicon60x60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Appicon60x60@3x.png"; sourceTree = "<group>"; };
+		1C05F0571BC69C1700D39D82 /* Appicon76x76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Appicon76x76.png; sourceTree = "<group>"; };
+		1C05F0581BC69C1700D39D82 /* Appicon76x76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Appicon76x76@2x.png"; sourceTree = "<group>"; };
+		1C05F06D1BC69DD500D39D82 /* Appicon24x24@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Appicon24x24@2x.png"; sourceTree = "<group>"; };
+		1C05F06E1BC69DD500D39D82 /* Appicon44x44@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Appicon44x44@2x.png"; sourceTree = "<group>"; };
+		1C05F06F1BC69DD500D39D82 /* Appicon86x86@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Appicon86x86@2x.png"; sourceTree = "<group>"; };
+		1C05F0701BC69DD500D39D82 /* Appicon98x98@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Appicon98x98@2x.png"; sourceTree = "<group>"; };
+		1C05F0791BC69DF300D39D82 /* Appicon27x27@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Appicon27x27@2x.png"; sourceTree = "<group>"; };
 		1C3653D81BC63302006239BE /* IECFreezer Monitor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "IECFreezer Monitor.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C3653DC1BC63302006239BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1C3653DD1BC63302006239BE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -40,6 +148,47 @@
 		1C3653F11BC63302006239BE /* IECFreezer MonitorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "IECFreezer MonitorTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C3653F61BC63302006239BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1C3653F71BC63302006239BE /* IECFreezer_MonitorTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IECFreezer_MonitorTests.m; sourceTree = "<group>"; };
+		1C3654011BC63415006239BE /* IECFreezer Monitor.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "IECFreezer Monitor.entitlements"; sourceTree = "<group>"; };
+		1C3654061BC635BA006239BE /* IECFreezer Monitor WatchKit Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "IECFreezer Monitor WatchKit Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1C3654091BC635BA006239BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1C36540A1BC635BA006239BE /* InterfaceController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InterfaceController.h; sourceTree = "<group>"; };
+		1C36540B1BC635BA006239BE /* InterfaceController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InterfaceController.m; sourceTree = "<group>"; };
+		1C36540D1BC635BA006239BE /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		1C3654111BC635BA006239BE /* IECFreezer Monitor WatchKit App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "IECFreezer Monitor WatchKit App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1C3654171BC635BA006239BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1C3654191BC635BA006239BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Interface.storyboard; sourceTree = "<group>"; };
+		1C36541B1BC635BA006239BE /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		1C3654271BC635D2006239BE /* IECFreezer Monitor WatchKit Extension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "IECFreezer Monitor WatchKit Extension.entitlements"; sourceTree = "<group>"; };
+		1C36542A1BC638F7006239BE /* NKWatchChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NKWatchChart.h; sourceTree = "<group>"; };
+		1C36542B1BC638F7006239BE /* NKColor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NKColor.h; sourceTree = "<group>"; };
+		1C36542C1BC638F7006239BE /* NKColor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NKColor.m; sourceTree = "<group>"; };
+		1C36542D1BC638F7006239BE /* NKLineChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NKLineChart.h; sourceTree = "<group>"; };
+		1C36542E1BC638F7006239BE /* NKLineChart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NKLineChart.m; sourceTree = "<group>"; };
+		1C36542F1BC638F7006239BE /* NKLineChartData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NKLineChartData.h; sourceTree = "<group>"; };
+		1C3654301BC638F7006239BE /* NKLineChartData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NKLineChartData.m; sourceTree = "<group>"; };
+		1C3654311BC638F7006239BE /* NKLineChartDataItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NKLineChartDataItem.h; sourceTree = "<group>"; };
+		1C3654321BC638F7006239BE /* NKLineChartDataItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NKLineChartDataItem.m; sourceTree = "<group>"; };
+		1C3654331BC638F7006239BE /* NKBarChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NKBarChart.h; sourceTree = "<group>"; };
+		1C3654341BC638F7006239BE /* NKBarChart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NKBarChart.m; sourceTree = "<group>"; };
+		1C3654351BC638F7006239BE /* NKPieChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NKPieChart.h; sourceTree = "<group>"; };
+		1C3654361BC638F7006239BE /* NKPieChart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NKPieChart.m; sourceTree = "<group>"; };
+		1C3654371BC638F7006239BE /* NKPieChartDataItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NKPieChartDataItem.h; sourceTree = "<group>"; };
+		1C3654381BC638F7006239BE /* NKPieChartDataItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NKPieChartDataItem.m; sourceTree = "<group>"; };
+		1C3654391BC638F7006239BE /* NKCircleChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NKCircleChart.h; sourceTree = "<group>"; };
+		1C36543A1BC638F7006239BE /* NKCircleChart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NKCircleChart.m; sourceTree = "<group>"; };
+		1C36543B1BC638F7006239BE /* NKRadarChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NKRadarChart.h; sourceTree = "<group>"; };
+		1C36543C1BC638F7006239BE /* NKRadarChart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NKRadarChart.m; sourceTree = "<group>"; };
+		1C36543D1BC638F7006239BE /* NKRadarChartDataItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NKRadarChartDataItem.h; sourceTree = "<group>"; };
+		1C36543E1BC638F7006239BE /* NKRadarChartDataItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NKRadarChartDataItem.m; sourceTree = "<group>"; };
+		1C36CD8D1BD0CA0A00FE3C1D /* thermameter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thermameter.png; sourceTree = "<group>"; };
+		1C36CD901BD0CA6700FE3C1D /* thermo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thermo.png; sourceTree = "<group>"; };
+		1C36CD931BD0CC9500FE3C1D /* thermo_30x30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thermo_30x30.png; sourceTree = "<group>"; };
+		1C3FA9A71BCFA4700046DC38 /* green_heart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = green_heart.png; sourceTree = "<group>"; };
+		1C3FA9A81BCFA4700046DC38 /* Receive.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Receive.mp3; sourceTree = "<group>"; };
+		1C3FA9A91BCFA4700046DC38 /* red_heart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = red_heart.png; sourceTree = "<group>"; };
+		1C3FA9AA1BCFA4700046DC38 /* yellow_heart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yellow_heart.png; sourceTree = "<group>"; };
+		1CC3B0D71BC67900008A676B /* alert.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = alert.png; sourceTree = "<group>"; };
+		1CC3B0D81BC67900008A676B /* fire_alarm.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fire_alarm.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +206,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		1C3654031BC635BA006239BE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -65,6 +221,8 @@
 			children = (
 				1C3653DA1BC63302006239BE /* IECFreezer Monitor */,
 				1C3653F41BC63302006239BE /* IECFreezer MonitorTests */,
+				1C3654071BC635BA006239BE /* IECFreezer Monitor WatchKit Extension */,
+				1C3654151BC635BA006239BE /* IECFreezer Monitor WatchKit App */,
 				1C3653D91BC63302006239BE /* Products */,
 			);
 			sourceTree = "<group>";
@@ -74,6 +232,8 @@
 			children = (
 				1C3653D81BC63302006239BE /* IECFreezer Monitor.app */,
 				1C3653F11BC63302006239BE /* IECFreezer MonitorTests.xctest */,
+				1C3654061BC635BA006239BE /* IECFreezer Monitor WatchKit Extension.appex */,
+				1C3654111BC635BA006239BE /* IECFreezer Monitor WatchKit App.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -81,6 +241,7 @@
 		1C3653DA1BC63302006239BE /* IECFreezer Monitor */ = {
 			isa = PBXGroup;
 			children = (
+				1C3654011BC63415006239BE /* IECFreezer Monitor.entitlements */,
 				1C3653DF1BC63302006239BE /* AppDelegate.h */,
 				1C3653E01BC63302006239BE /* AppDelegate.m */,
 				1C3653E21BC63302006239BE /* ViewController.h */,
@@ -96,6 +257,7 @@
 		1C3653DB1BC63302006239BE /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				1CE1FB521BC687C500A3C1B0 /* Appicons */,
 				1C3653DC1BC63302006239BE /* Info.plist */,
 				1C3653DD1BC63302006239BE /* main.m */,
 			);
@@ -119,6 +281,104 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		1C3654071BC635BA006239BE /* IECFreezer Monitor WatchKit Extension */ = {
+			isa = PBXGroup;
+			children = (
+				1C3654291BC638DE006239BE /* NKWatchChart */,
+				1C3654271BC635D2006239BE /* IECFreezer Monitor WatchKit Extension.entitlements */,
+				1C36540A1BC635BA006239BE /* InterfaceController.h */,
+				1C36540B1BC635BA006239BE /* InterfaceController.m */,
+				1C36540D1BC635BA006239BE /* Images.xcassets */,
+				1C3FA9A71BCFA4700046DC38 /* green_heart.png */,
+				1C36CD931BD0CC9500FE3C1D /* thermo_30x30.png */,
+				1C3FA9A81BCFA4700046DC38 /* Receive.mp3 */,
+				1C3FA9A91BCFA4700046DC38 /* red_heart.png */,
+				1C3FA9AA1BCFA4700046DC38 /* yellow_heart.png */,
+				1CC3B0D71BC67900008A676B /* alert.png */,
+				1CC3B0D81BC67900008A676B /* fire_alarm.png */,
+				1C36CD8D1BD0CA0A00FE3C1D /* thermameter.png */,
+				1C3654081BC635BA006239BE /* Supporting Files */,
+			);
+			path = "IECFreezer Monitor WatchKit Extension";
+			sourceTree = "<group>";
+		};
+		1C3654081BC635BA006239BE /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				1C3654091BC635BA006239BE /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		1C3654151BC635BA006239BE /* IECFreezer Monitor WatchKit App */ = {
+			isa = PBXGroup;
+			children = (
+				1C3654181BC635BA006239BE /* Interface.storyboard */,
+				1C36541B1BC635BA006239BE /* Images.xcassets */,
+				1C3654161BC635BA006239BE /* Supporting Files */,
+			);
+			path = "IECFreezer Monitor WatchKit App";
+			sourceTree = "<group>";
+		};
+		1C3654161BC635BA006239BE /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				1C3654171BC635BA006239BE /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		1C3654291BC638DE006239BE /* NKWatchChart */ = {
+			isa = PBXGroup;
+			children = (
+				1C36542A1BC638F7006239BE /* NKWatchChart.h */,
+				1C36542B1BC638F7006239BE /* NKColor.h */,
+				1C36542C1BC638F7006239BE /* NKColor.m */,
+				1C36542D1BC638F7006239BE /* NKLineChart.h */,
+				1C36542E1BC638F7006239BE /* NKLineChart.m */,
+				1C36542F1BC638F7006239BE /* NKLineChartData.h */,
+				1C3654301BC638F7006239BE /* NKLineChartData.m */,
+				1C3654311BC638F7006239BE /* NKLineChartDataItem.h */,
+				1C3654321BC638F7006239BE /* NKLineChartDataItem.m */,
+				1C3654331BC638F7006239BE /* NKBarChart.h */,
+				1C3654341BC638F7006239BE /* NKBarChart.m */,
+				1C3654351BC638F7006239BE /* NKPieChart.h */,
+				1C3654361BC638F7006239BE /* NKPieChart.m */,
+				1C3654371BC638F7006239BE /* NKPieChartDataItem.h */,
+				1C3654381BC638F7006239BE /* NKPieChartDataItem.m */,
+				1C3654391BC638F7006239BE /* NKCircleChart.h */,
+				1C36543A1BC638F7006239BE /* NKCircleChart.m */,
+				1C36543B1BC638F7006239BE /* NKRadarChart.h */,
+				1C36543C1BC638F7006239BE /* NKRadarChart.m */,
+				1C36543D1BC638F7006239BE /* NKRadarChartDataItem.h */,
+				1C36543E1BC638F7006239BE /* NKRadarChartDataItem.m */,
+			);
+			name = NKWatchChart;
+			sourceTree = "<group>";
+		};
+		1CE1FB521BC687C500A3C1B0 /* Appicons */ = {
+			isa = PBXGroup;
+			children = (
+				1C36CD901BD0CA6700FE3C1D /* thermo.png */,
+				1C05F04F1BC69C1700D39D82 /* Appicon29x29.png */,
+				1C05F0501BC69C1700D39D82 /* Appicon29x29@2x.png */,
+				1C05F0511BC69C1700D39D82 /* Appicon29x29@3x.png */,
+				1C05F0521BC69C1700D39D82 /* Appicon40x40.png */,
+				1C05F0531BC69C1700D39D82 /* Appicon40x40@2x.png */,
+				1C05F0541BC69C1700D39D82 /* Appicon40x40@3x.png */,
+				1C05F0551BC69C1700D39D82 /* Appicon60x60@2x.png */,
+				1C05F0561BC69C1700D39D82 /* Appicon60x60@3x.png */,
+				1C05F0571BC69C1700D39D82 /* Appicon76x76.png */,
+				1C05F0581BC69C1700D39D82 /* Appicon76x76@2x.png */,
+				1C05F06D1BC69DD500D39D82 /* Appicon24x24@2x.png */,
+				1C05F06E1BC69DD500D39D82 /* Appicon44x44@2x.png */,
+				1C05F06F1BC69DD500D39D82 /* Appicon86x86@2x.png */,
+				1C05F0701BC69DD500D39D82 /* Appicon98x98@2x.png */,
+				1C05F0791BC69DF300D39D82 /* Appicon27x27@2x.png */,
+			);
+			name = Appicons;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -129,10 +389,12 @@
 				1C3653D41BC63302006239BE /* Sources */,
 				1C3653D51BC63302006239BE /* Frameworks */,
 				1C3653D61BC63302006239BE /* Resources */,
+				1C3654261BC635BA006239BE /* Embed App Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				1C36541E1BC635BA006239BE /* PBXTargetDependency */,
 			);
 			name = "IECFreezer Monitor";
 			productName = "IECFreezer Monitor";
@@ -157,6 +419,39 @@
 			productReference = 1C3653F11BC63302006239BE /* IECFreezer MonitorTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
+		1C3654051BC635BA006239BE /* IECFreezer Monitor WatchKit Extension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1C3654231BC635BA006239BE /* Build configuration list for PBXNativeTarget "IECFreezer Monitor WatchKit Extension" */;
+			buildPhases = (
+				1C3654021BC635BA006239BE /* Sources */,
+				1C3654031BC635BA006239BE /* Frameworks */,
+				1C3654041BC635BA006239BE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				1C3654141BC635BA006239BE /* PBXTargetDependency */,
+			);
+			name = "IECFreezer Monitor WatchKit Extension";
+			productName = "IECFreezer Monitor WatchKit Extension";
+			productReference = 1C3654061BC635BA006239BE /* IECFreezer Monitor WatchKit Extension.appex */;
+			productType = "com.apple.product-type.watchkit-extension";
+		};
+		1C3654101BC635BA006239BE /* IECFreezer Monitor WatchKit App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1C3654201BC635BA006239BE /* Build configuration list for PBXNativeTarget "IECFreezer Monitor WatchKit App" */;
+			buildPhases = (
+				1C36540F1BC635BA006239BE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "IECFreezer Monitor WatchKit App";
+			productName = "IECFreezer Monitor WatchKit App";
+			productReference = 1C3654111BC635BA006239BE /* IECFreezer Monitor WatchKit App.app */;
+			productType = "com.apple.product-type.application.watchapp";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -168,10 +463,29 @@
 				TargetAttributes = {
 					1C3653D71BC63302006239BE = {
 						CreatedOnToolsVersion = 6.4;
+						DevelopmentTeam = PK7YYJGTL3;
+						SystemCapabilities = {
+							com.apple.ApplicationGroups.iOS = {
+								enabled = 1;
+							};
+						};
 					};
 					1C3653F01BC63302006239BE = {
 						CreatedOnToolsVersion = 6.4;
 						TestTargetID = 1C3653D71BC63302006239BE;
+					};
+					1C3654051BC635BA006239BE = {
+						CreatedOnToolsVersion = 6.4;
+						DevelopmentTeam = PK7YYJGTL3;
+						SystemCapabilities = {
+							com.apple.ApplicationGroups.iOS = {
+								enabled = 1;
+							};
+						};
+					};
+					1C3654101BC635BA006239BE = {
+						CreatedOnToolsVersion = 6.4;
+						DevelopmentTeam = PK7YYJGTL3;
 					};
 				};
 			};
@@ -190,6 +504,8 @@
 			targets = (
 				1C3653D71BC63302006239BE /* IECFreezer Monitor */,
 				1C3653F01BC63302006239BE /* IECFreezer MonitorTests */,
+				1C3654051BC635BA006239BE /* IECFreezer Monitor WatchKit Extension */,
+				1C3654101BC635BA006239BE /* IECFreezer Monitor WatchKit App */,
 			);
 		};
 /* End PBXProject section */
@@ -199,9 +515,33 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1C05F06B1BC69C1700D39D82 /* Appicon76x76@2x.png in Resources */,
+				1C05F05B1BC69C1700D39D82 /* Appicon29x29@2x.png in Resources */,
+				1C3FA9AD1BCFA4700046DC38 /* Receive.mp3 in Resources */,
 				1C3653E71BC63302006239BE /* Main.storyboard in Resources */,
+				1C05F0771BC69DD500D39D82 /* Appicon98x98@2x.png in Resources */,
+				1C05F0611BC69C1700D39D82 /* Appicon40x40@2x.png in Resources */,
 				1C3653EC1BC63302006239BE /* LaunchScreen.xib in Resources */,
+				1C05F0651BC69C1700D39D82 /* Appicon60x60@2x.png in Resources */,
+				1C36CD911BD0CA6700FE3C1D /* thermo.png in Resources */,
+				1C05F0631BC69C1700D39D82 /* Appicon40x40@3x.png in Resources */,
+				1C05F05F1BC69C1700D39D82 /* Appicon40x40.png in Resources */,
+				1C05F0731BC69DD500D39D82 /* Appicon44x44@2x.png in Resources */,
+				1C05F07A1BC69DF300D39D82 /* Appicon27x27@2x.png in Resources */,
+				1C36CD8E1BD0CA0A00FE3C1D /* thermameter.png in Resources */,
+				1C05F0691BC69C1700D39D82 /* Appicon76x76.png in Resources */,
+				1C05F05D1BC69C1700D39D82 /* Appicon29x29@3x.png in Resources */,
+				1C3FA9B11BCFA4700046DC38 /* yellow_heart.png in Resources */,
+				1C05F0711BC69DD500D39D82 /* Appicon24x24@2x.png in Resources */,
+				1C3FA9AF1BCFA4700046DC38 /* red_heart.png in Resources */,
+				1C36CD941BD0CC9500FE3C1D /* thermo_30x30.png in Resources */,
+				1C44176F1BC78D6200D6A904 /* alert.png in Resources */,
 				1C3653E91BC63302006239BE /* Images.xcassets in Resources */,
+				1C05F0671BC69C1700D39D82 /* Appicon60x60@3x.png in Resources */,
+				1C05F0751BC69DD500D39D82 /* Appicon86x86@2x.png in Resources */,
+				1C3FA9AB1BCFA4700046DC38 /* green_heart.png in Resources */,
+				1C05F0591BC69C1700D39D82 /* Appicon29x29.png in Resources */,
+				1C4417711BC78D6800D6A904 /* fire_alarm.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -212,6 +552,48 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		1C3654041BC635BA006239BE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1C36CD921BD0CA6700FE3C1D /* thermo.png in Resources */,
+				1CC3B0DB1BC67900008A676B /* fire_alarm.png in Resources */,
+				1CC3B0DA1BC67900008A676B /* alert.png in Resources */,
+				1C3654121BC635BA006239BE /* IECFreezer Monitor WatchKit App.app in Resources */,
+				1C3FA9B01BCFA4700046DC38 /* red_heart.png in Resources */,
+				1C3FA9AE1BCFA4700046DC38 /* Receive.mp3 in Resources */,
+				1C3FA9AC1BCFA4700046DC38 /* green_heart.png in Resources */,
+				1C3FA9B21BCFA4700046DC38 /* yellow_heart.png in Resources */,
+				1C36CD951BD0CC9500FE3C1D /* thermo_30x30.png in Resources */,
+				1C36CD8F1BD0CA0A00FE3C1D /* thermameter.png in Resources */,
+				1C36540E1BC635BA006239BE /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1C36540F1BC635BA006239BE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1C05F06C1BC69C1700D39D82 /* Appicon76x76@2x.png in Resources */,
+				1C05F05C1BC69C1700D39D82 /* Appicon29x29@2x.png in Resources */,
+				1C05F0781BC69DD500D39D82 /* Appicon98x98@2x.png in Resources */,
+				1C05F0621BC69C1700D39D82 /* Appicon40x40@2x.png in Resources */,
+				1C36541A1BC635BA006239BE /* Interface.storyboard in Resources */,
+				1C05F0661BC69C1700D39D82 /* Appicon60x60@2x.png in Resources */,
+				1C05F0641BC69C1700D39D82 /* Appicon40x40@3x.png in Resources */,
+				1C05F0601BC69C1700D39D82 /* Appicon40x40.png in Resources */,
+				1C05F0741BC69DD500D39D82 /* Appicon44x44@2x.png in Resources */,
+				1C05F07B1BC69DF300D39D82 /* Appicon27x27@2x.png in Resources */,
+				1C05F06A1BC69C1700D39D82 /* Appicon76x76.png in Resources */,
+				1C05F05E1BC69C1700D39D82 /* Appicon29x29@3x.png in Resources */,
+				1C05F0721BC69DD500D39D82 /* Appicon24x24@2x.png in Resources */,
+				1C36541C1BC635BA006239BE /* Images.xcassets in Resources */,
+				1C05F0681BC69C1700D39D82 /* Appicon60x60@3x.png in Resources */,
+				1C05F0761BC69DD500D39D82 /* Appicon86x86@2x.png in Resources */,
+				1C05F05A1BC69C1700D39D82 /* Appicon29x29.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -219,6 +601,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1C44176E1BC78D2A00D6A904 /* NKCircleChart.m in Sources */,
 				1C3653E41BC63302006239BE /* ViewController.m in Sources */,
 				1C3653E11BC63302006239BE /* AppDelegate.m in Sources */,
 				1C3653DE1BC63302006239BE /* main.m in Sources */,
@@ -233,6 +616,24 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		1C3654021BC635BA006239BE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1C3654441BC638F7006239BE /* NKPieChart.m in Sources */,
+				1C3654451BC638F7006239BE /* NKPieChartDataItem.m in Sources */,
+				1C3654481BC638F7006239BE /* NKRadarChartDataItem.m in Sources */,
+				1C36543F1BC638F7006239BE /* NKColor.m in Sources */,
+				1C3654411BC638F7006239BE /* NKLineChartData.m in Sources */,
+				1C3654471BC638F7006239BE /* NKRadarChart.m in Sources */,
+				1C3654421BC638F7006239BE /* NKLineChartDataItem.m in Sources */,
+				1C3654461BC638F7006239BE /* NKCircleChart.m in Sources */,
+				1C3654431BC638F7006239BE /* NKBarChart.m in Sources */,
+				1C3654401BC638F7006239BE /* NKLineChart.m in Sources */,
+				1C36540C1BC635BA006239BE /* InterfaceController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
@@ -240,6 +641,16 @@
 			isa = PBXTargetDependency;
 			target = 1C3653D71BC63302006239BE /* IECFreezer Monitor */;
 			targetProxy = 1C3653F21BC63302006239BE /* PBXContainerItemProxy */;
+		};
+		1C3654141BC635BA006239BE /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1C3654101BC635BA006239BE /* IECFreezer Monitor WatchKit App */;
+			targetProxy = 1C3654131BC635BA006239BE /* PBXContainerItemProxy */;
+		};
+		1C36541E1BC635BA006239BE /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1C3654051BC635BA006239BE /* IECFreezer Monitor WatchKit Extension */;
+			targetProxy = 1C36541D1BC635BA006239BE /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -258,6 +669,14 @@
 				1C3653EB1BC63302006239BE /* Base */,
 			);
 			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+		1C3654181BC635BA006239BE /* Interface.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1C3654191BC635BA006239BE /* Base */,
+			);
+			name = Interface.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -280,7 +699,8 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Wheredouwannago.com, LLC";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Wheredouwannago.com, LLC";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -324,7 +744,8 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Wheredouwannago.com, LLC";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Wheredouwannago.com, LLC";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
@@ -348,20 +769,34 @@
 		1C3653FC1BC63302006239BE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-2";
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_ENTITLEMENTS = "IECFreezer Monitor/IECFreezer Monitor.entitlements";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Wheredouwannago.com, LLC";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Wheredouwannago.com, LLC";
 				INFOPLIST_FILE = "IECFreezer Monitor/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "1ceb9b03-a5bd-4ed9-920a-8138e4e7e492";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
 		1C3653FD1BC63302006239BE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-2";
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_ENTITLEMENTS = "IECFreezer Monitor/IECFreezer Monitor.entitlements";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Wheredouwannago.com, LLC";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Wheredouwannago.com, LLC";
 				INFOPLIST_FILE = "IECFreezer Monitor/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "1ceb9b03-a5bd-4ed9-920a-8138e4e7e492";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -399,6 +834,76 @@
 			};
 			name = Release;
 		};
+		1C3654211BC635BA006239BE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Wheredouwannago.com, LLC";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Wheredouwannago.com, LLC";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				IBSC_MODULE = IECFreezer_Monitor_WatchKit_Extension;
+				INFOPLIST_FILE = "IECFreezer Monitor WatchKit App/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "d4f6b78d-9a25-49e7-8f70-cc30e81f4c7d";
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 4;
+				"TARGETED_DEVICE_FAMILY[sdk=iphonesimulator*]" = "1,4";
+			};
+			name = Debug;
+		};
+		1C3654221BC635BA006239BE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Wheredouwannago.com, LLC";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Wheredouwannago.com, LLC";
+				IBSC_MODULE = IECFreezer_Monitor_WatchKit_Extension;
+				INFOPLIST_FILE = "IECFreezer Monitor WatchKit App/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "d4f6b78d-9a25-49e7-8f70-cc30e81f4c7d";
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 4;
+				"TARGETED_DEVICE_FAMILY[sdk=iphonesimulator*]" = "1,4";
+			};
+			name = Release;
+		};
+		1C3654241BC635BA006239BE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = "IECFreezer Monitor WatchKit Extension/IECFreezer Monitor WatchKit Extension.entitlements";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Wheredouwannago.com, LLC";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Wheredouwannago.com, LLC";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "IECFreezer Monitor WatchKit Extension/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_NAME = "${TARGET_NAME}";
+				PROVISIONING_PROFILE = "824d2a8a-6e6c-4987-b475-30c0c0f8c33e";
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		1C3654251BC635BA006239BE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = "IECFreezer Monitor WatchKit Extension/IECFreezer Monitor WatchKit Extension.entitlements";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Wheredouwannago.com, LLC";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Wheredouwannago.com, LLC";
+				INFOPLIST_FILE = "IECFreezer Monitor WatchKit Extension/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_NAME = "${TARGET_NAME}";
+				PROVISIONING_PROFILE = "824d2a8a-6e6c-4987-b475-30c0c0f8c33e";
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -418,6 +923,7 @@
 				1C3653FD1BC63302006239BE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1C3653FE1BC63302006239BE /* Build configuration list for PBXNativeTarget "IECFreezer MonitorTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +932,25 @@
 				1C3654001BC63302006239BE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1C3654201BC635BA006239BE /* Build configuration list for PBXNativeTarget "IECFreezer Monitor WatchKit App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1C3654211BC635BA006239BE /* Debug */,
+				1C3654221BC635BA006239BE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1C3654231BC635BA006239BE /* Build configuration list for PBXNativeTarget "IECFreezer Monitor WatchKit Extension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1C3654241BC635BA006239BE /* Debug */,
+				1C3654251BC635BA006239BE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
