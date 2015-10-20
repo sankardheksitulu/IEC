@@ -10,18 +10,23 @@
             <objects>
                 <controller id="AgC-eL-Hgc" customClass="InterfaceController">
                     <items>
-                        <label width="10" height="10" alignment="left" id="1sK-My-oEn"/>
-                        <imageView width="30" height="17" alignment="right" contentMode="scaleAspectFit" id="mg6-na-ecm"/>
-                        <imageView width="110" height="106" alignment="center" id="Rgr-Qr-xC9"/>
+                        <label width="10" height="6" alignment="left" id="1sK-My-oEn"/>
+                        <group width="1" height="132" alignment="left" id="pA9-0X-nm0">
+                            <items>
+                                <imageView width="110" height="106" alignment="center" hidden="YES" id="Rgr-Qr-xC9"/>
+                                <imageView width="27" height="23" alignment="right" contentMode="scaleAspectFit" id="mg6-na-ecm"/>
+                            </items>
+                        </group>
                     </items>
                     <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     <connections>
+                        <outlet property="groupView" destination="pA9-0X-nm0" id="0V3-fK-ggN"/>
                         <outlet property="indicatorImage" destination="mg6-na-ecm" id="eyl-RB-o8P"/>
                         <outlet property="myImage" destination="Rgr-Qr-xC9" id="w6a-bE-brn"/>
                     </connections>
                 </controller>
             </objects>
-            <point key="canvasLocation" x="53" y="147"/>
+            <point key="canvasLocation" x="53" y="145"/>
         </scene>
     </scenes>
 </document>

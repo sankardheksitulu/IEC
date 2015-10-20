@@ -12,6 +12,7 @@
 
 @interface NKCircleChart (){
     BOOL isNegitive;
+    int temp;
 }
 
 @property (nonatomic) CGRect frame;
@@ -103,8 +104,7 @@ displayCountingLabel:(BOOL)displayCountingLabel
     CGFloat startAngle = 0.f;
     CGFloat endAngle =  0.f;
     
-    if (_clockwise)
-    {
+    if (_clockwise)     {
         
         startAngle = -235.7f;
         endAngle =  290.0f*([_current floatValue] / [_total floatValue]) + startAngle + 0.01f;
@@ -230,15 +230,18 @@ displayCountingLabel:(BOOL)displayCountingLabel
         }
         
         if (isNegitive) {
-            int temp = [_current intValue];
+            temp = [_current intValue];
             temp = 100 - temp;
             text = [NSString stringWithFormat:format,temp];
             text = [NSString stringWithFormat:@"-%@",text];
+            temp = -(temp);
         }else{
+            temp = [_current intValue] - 100;
             text = [NSString stringWithFormat:format,[_current intValue] - 100];
         }
         
         if (_current == 0) {
+            temp = 0;
             text = [NSString stringWithFormat:format,0];
         }
 
@@ -246,8 +249,9 @@ displayCountingLabel:(BOOL)displayCountingLabel
         [text drawInRect:textRect
            withAttributes:@{ NSFontAttributeName:[UIFont systemFontOfSize:10 weight:bold], NSForegroundColorAttributeName:_strokeColor}];
         
-        UIImage *image = [UIImage imageNamed:@"thermo.png"];
-        [image drawInRect:CGRectMake(arcCenter.x-15.0, arcCenter.y- 15.0, 30.0, 30.0)];
+        
+        UIImage *image = [UIImage imageNamed:@"Thermo_red.png"];
+        [image drawInRect:CGRectMake(arcCenter.x-18.0, arcCenter.y- 18.0, 30.0, 35.0)];
 //        [image drawAsPatternInRect:CGRectMake(arcCenter.x-15.0, arcCenter.y- 15.0, 10.0, 20.0)];
         
 //        text = [NSString stringWithFormat:format,-100];

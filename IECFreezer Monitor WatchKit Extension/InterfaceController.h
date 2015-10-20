@@ -14,4 +14,5 @@
 @property (weak, nonatomic) IBOutlet WKInterfaceImage *myImage;
 @property (weak, nonatomic) IBOutlet WKInterfaceImage *indicatorImage;
 
+@property (weak, nonatomic) IBOutlet WKInterfaceGroup *groupView;
 @end

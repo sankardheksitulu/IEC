@@ -108,10 +108,9 @@
         chart.strokeColorGradientStart = NKGreen;
     }
     
-    
     UIImage* image = [chart drawImage];
-    [self.myImage setImage:image];
-    
+//    [self.myImage setImage:image];
+    [self.groupView setBackgroundImage:image];
 }
 
 - (void)showAnimation{
