@@ -245,13 +245,26 @@ displayCountingLabel:(BOOL)displayCountingLabel
             text = [NSString stringWithFormat:format,0];
         }
 
-        CGRect textRect = CGRectMake(arcCenter.x-13.0, arcCenter.y+38.0, 50.f, 20.f);
+        CGRect textRect = CGRectMake(arcCenter.x-14.0, arcCenter.y+32.0, 50.f, 20.f);
         [text drawInRect:textRect
-           withAttributes:@{ NSFontAttributeName:[UIFont systemFontOfSize:10 weight:bold], NSForegroundColorAttributeName:_strokeColor}];
+           withAttributes:@{ NSFontAttributeName:[UIFont systemFontOfSize:11 weight:normal], NSForegroundColorAttributeName:_strokeColor}];
         
+        if (temp > -84 && temp < -74) {
+            UIImage *image = [UIImage imageNamed:@"Thermo_blue.png"];
+            [image drawInRect:CGRectMake(arcCenter.x-28.0, arcCenter.y- 28.0, 50.0, 55.0)];
+        }else if (temp > -74 && temp < -64) {
+            UIImage *image = [UIImage imageNamed:@"Thermo_orange.png"];
+            [image drawInRect:CGRectMake(arcCenter.x-28.0, arcCenter.y- 28.0, 50.0, 55.0)];
+        }else if (temp > -64) {
+            UIImage *image = [UIImage imageNamed:@"Thermo_red.png"];
+            [image drawInRect:CGRectMake(arcCenter.x-28.0, arcCenter.y- 28.0, 50.0, 55.0)];
+        }else{
+            UIImage *image = [UIImage imageNamed:@"Thermo_blue.png"];
+            [image drawInRect:CGRectMake(arcCenter.x-28.0, arcCenter.y- 28.0, 50.0, 55.0)];
+        }
         
-        UIImage *image = [UIImage imageNamed:@"Thermo_red.png"];
-        [image drawInRect:CGRectMake(arcCenter.x-18.0, arcCenter.y- 18.0, 30.0, 35.0)];
+//        UIImage *image = [UIImage imageNamed:@"Thermo_red.png"];
+//        [image drawInRect:CGRectMake(arcCenter.x-28.0, arcCenter.y- 28.0, 50.0, 55.0)];
 //        [image drawAsPatternInRect:CGRectMake(arcCenter.x-15.0, arcCenter.y- 15.0, 10.0, 20.0)];
         
 //        text = [NSString stringWithFormat:format,-100];

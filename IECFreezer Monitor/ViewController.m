@@ -46,7 +46,7 @@
     NSInteger number = [[[[contents objectAtIndex:0] objectForKey:@"content"] objectForKey:@"Actual_t"] integerValue];
     NSInteger Set_t = [[[[contents objectAtIndex:0] objectForKey:@"content"] objectForKey:@"Set_t"] integerValue];
     
-//    NSInteger number = 100;
+//    NSInteger number = -50;
 //    NSInteger Set_t = -40;
     
     NSInteger obsolute = Set_t - number;
@@ -82,14 +82,33 @@
         chart = [[NKCircleChart alloc] initWithFrame:frame total:@200 current:@(100) clockwise:YES shadow:YES shadowColor:shadowColor displayCountingLabel:YES overrideLineWidth:@7];
     }
     
-    if (obsolute < 5) {
-        [self.indicatorImage setImage:[UIImage imageNamed:@"green_heart.png"]];
-        chart.strokeColor = NKGreen;
-        chart.strokeColorGradientStart = NKGreen;
-    } else if (obsolute > 5 && obsolute < 10){
-        [self.indicatorImage setImage:[UIImage imageNamed:@"yellow_heart.png"]];
+    
+    if (number > -84 && number < -74) {
+        [self.indicatorImage setImage:[UIImage imageNamed:@"action1.png"]];
+        chart.strokeColor = NKBlue;
+        chart.strokeColorGradientStart = NKBlue;
+    }else if (number > -74 && number < -64) {
+        [self.indicatorImage setImage:[UIImage imageNamed:@"action2.png"]];
         chart.strokeColor = NKYellow;
         chart.strokeColorGradientStart = NKYellow;
+    }else if (number > -64) {
+        [self.indicatorImage setImage:[UIImage imageNamed:@"action3.png"]];
+        chart.strokeColor = NKRed;
+        chart.strokeColorGradientStart = NKRed;
+    }else{
+        [self.indicatorImage setImage:[UIImage imageNamed:@"action1.png"]];
+        chart.strokeColor = NKBlue;
+        chart.strokeColorGradientStart = NKBlue;
+    }
+    
+    if (obsolute < 5) {
+//        [self.indicatorImage setImage:[UIImage imageNamed:@"green_heart.png"]];
+//        chart.strokeColor = NKGreen;
+//        chart.strokeColorGradientStart = NKGreen;
+    } else if (obsolute > 5 && obsolute < 10){
+//        [self.indicatorImage setImage:[UIImage imageNamed:@"yellow_heart.png"]];
+//        chart.strokeColor = NKYellow;
+//        chart.strokeColorGradientStart = NKYellow;
         
         myTimer = [NSTimer scheduledTimerWithTimeInterval:1 target:self selector:@selector(showAnimation) userInfo:nil repeats:YES];
         
@@ -104,9 +123,9 @@
         [[UIApplication sharedApplication] scheduleLocalNotification:localNotification];
         
     }else if (obsolute > 10){
-        [self.indicatorImage setImage:[UIImage imageNamed:@"red_heart.png"]];
-        chart.strokeColor = NKRed;
-        chart.strokeColorGradientStart = NKRed;
+//        [self.indicatorImage setImage:[UIImage imageNamed:@"red_heart.png"]];
+//        chart.strokeColor = NKRed;
+//        chart.strokeColorGradientStart = NKRed;
         
         myTimer = [NSTimer scheduledTimerWithTimeInterval:0.5 target:self selector:@selector(showAnimation) userInfo:nil repeats:YES];
         
@@ -120,9 +139,9 @@
         
         [[UIApplication sharedApplication] scheduleLocalNotification:localNotification];
     }else{
-        [self.indicatorImage setImage:[UIImage imageNamed:@"green_heart.png"]];
-        chart.strokeColor = NKGreen;
-        chart.strokeColorGradientStart = NKGreen;
+//        [self.indicatorImage setImage:[UIImage imageNamed:@"green_heart.png"]];
+//        chart.strokeColor = NKGreen;
+//        chart.strokeColorGradientStart = NKGreen;
     }
     
 //    if (num > [NSNumber numberWithInt:-86] && num < [NSNumber numberWithInt:-74]) {

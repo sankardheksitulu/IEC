@@ -85,6 +85,12 @@
 		1C4DBE5D1BD66CFE00AF113E /* Thermo_red.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C4DBE571BD66CFE00AF113E /* Thermo_red.png */; };
 		1CC3B0DA1BC67900008A676B /* alert.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CC3B0D71BC67900008A676B /* alert.png */; };
 		1CC3B0DB1BC67900008A676B /* fire_alarm.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CC3B0D81BC67900008A676B /* fire_alarm.png */; };
+		1CF3276A1BD67D740055A7EB /* action1.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CF327671BD67D740055A7EB /* action1.png */; };
+		1CF3276B1BD67D740055A7EB /* action1.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CF327671BD67D740055A7EB /* action1.png */; };
+		1CF3276C1BD67D740055A7EB /* action2.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CF327681BD67D740055A7EB /* action2.png */; };
+		1CF3276D1BD67D740055A7EB /* action2.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CF327681BD67D740055A7EB /* action2.png */; };
+		1CF3276E1BD67D740055A7EB /* action3.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CF327691BD67D740055A7EB /* action3.png */; };
+		1CF3276F1BD67D740055A7EB /* action3.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CF327691BD67D740055A7EB /* action3.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -198,6 +204,9 @@
 		1C4DBE571BD66CFE00AF113E /* Thermo_red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Thermo_red.png; sourceTree = "<group>"; };
 		1CC3B0D71BC67900008A676B /* alert.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = alert.png; sourceTree = "<group>"; };
 		1CC3B0D81BC67900008A676B /* fire_alarm.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fire_alarm.png; sourceTree = "<group>"; };
+		1CF327671BD67D740055A7EB /* action1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = action1.png; sourceTree = "<group>"; };
+		1CF327681BD67D740055A7EB /* action2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = action2.png; sourceTree = "<group>"; };
+		1CF327691BD67D740055A7EB /* action3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = action3.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -298,6 +307,9 @@
 				1C36540A1BC635BA006239BE /* InterfaceController.h */,
 				1C36540B1BC635BA006239BE /* InterfaceController.m */,
 				1C36540D1BC635BA006239BE /* Images.xcassets */,
+				1CF327671BD67D740055A7EB /* action1.png */,
+				1CF327681BD67D740055A7EB /* action2.png */,
+				1CF327691BD67D740055A7EB /* action3.png */,
 				1C4DBE551BD66CFE00AF113E /* Thermo_blue.png */,
 				1C4DBE561BD66CFE00AF113E /* Thermo_orange.png */,
 				1C4DBE571BD66CFE00AF113E /* Thermo_red.png */,
@@ -534,12 +546,15 @@
 				1C05F0771BC69DD500D39D82 /* Appicon98x98@2x.png in Resources */,
 				1C05F0611BC69C1700D39D82 /* Appicon40x40@2x.png in Resources */,
 				1C3653EC1BC63302006239BE /* LaunchScreen.xib in Resources */,
+				1CF3276A1BD67D740055A7EB /* action1.png in Resources */,
 				1C05F0651BC69C1700D39D82 /* Appicon60x60@2x.png in Resources */,
 				1C36CD911BD0CA6700FE3C1D /* thermo.png in Resources */,
+				1CF3276E1BD67D740055A7EB /* action3.png in Resources */,
 				1C05F0631BC69C1700D39D82 /* Appicon40x40@3x.png in Resources */,
 				1C05F05F1BC69C1700D39D82 /* Appicon40x40.png in Resources */,
 				1C05F0731BC69DD500D39D82 /* Appicon44x44@2x.png in Resources */,
 				1C4DBE581BD66CFE00AF113E /* Thermo_blue.png in Resources */,
+				1CF3276C1BD67D740055A7EB /* action2.png in Resources */,
 				1C05F07A1BC69DF300D39D82 /* Appicon27x27@2x.png in Resources */,
 				1C36CD8E1BD0CA0A00FE3C1D /* thermameter.png in Resources */,
 				1C05F0691BC69C1700D39D82 /* Appicon76x76.png in Resources */,
@@ -575,15 +590,18 @@
 				1C36CD921BD0CA6700FE3C1D /* thermo.png in Resources */,
 				1C4DBE5D1BD66CFE00AF113E /* Thermo_red.png in Resources */,
 				1C4DBE5B1BD66CFE00AF113E /* Thermo_orange.png in Resources */,
+				1CF3276F1BD67D740055A7EB /* action3.png in Resources */,
 				1CC3B0DB1BC67900008A676B /* fire_alarm.png in Resources */,
 				1CC3B0DA1BC67900008A676B /* alert.png in Resources */,
 				1C3654121BC635BA006239BE /* IECFreezer Monitor WatchKit App.app in Resources */,
+				1CF3276B1BD67D740055A7EB /* action1.png in Resources */,
 				1C3FA9B01BCFA4700046DC38 /* red_heart.png in Resources */,
 				1C3FA9AE1BCFA4700046DC38 /* Receive.mp3 in Resources */,
 				1C3FA9AC1BCFA4700046DC38 /* green_heart.png in Resources */,
 				1C3FA9B21BCFA4700046DC38 /* yellow_heart.png in Resources */,
 				1C36CD951BD0CC9500FE3C1D /* thermo_30x30.png in Resources */,
 				1C36CD8F1BD0CA0A00FE3C1D /* thermameter.png in Resources */,
+				1CF3276D1BD67D740055A7EB /* action2.png in Resources */,
 				1C36540E1BC635BA006239BE /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

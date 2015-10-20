@@ -26,7 +26,7 @@
     [super awakeWithContext:context];
     [self aTime];
     // Configure interface objects here.
-    [NSTimer scheduledTimerWithTimeInterval:20 target:self selector:@selector(aTime) userInfo:nil repeats:YES];
+    [NSTimer scheduledTimerWithTimeInterval:10 target:self selector:@selector(aTime) userInfo:nil repeats:YES];
 }
 
 - (void)willActivate {
@@ -85,20 +85,20 @@
     }
     
     if (obsolute < 5) {
-        [self.indicatorImage setImage:[UIImage imageNamed:@"green_heart.png"]];
-        chart.strokeColor = NKGreen;
-        chart.strokeColorGradientStart = NKGreen;
+//        [self.indicatorImage setImage:[UIImage imageNamed:@"green_heart.png"]];
+//        chart.strokeColor = NKGreen;
+//        chart.strokeColorGradientStart = NKGreen;
     } else if (obsolute > 5 && obsolute < 10){
-        [self.indicatorImage setImage:[UIImage imageNamed:@"yellow_heart.png"]];
-        chart.strokeColor = NKYellow;
-        chart.strokeColorGradientStart = NKYellow;
+//        [self.indicatorImage setImage:[UIImage imageNamed:@"yellow_heart.png"]];
+//        chart.strokeColor = NKYellow;
+//        chart.strokeColorGradientStart = NKYellow;
         
         myTimer = [NSTimer scheduledTimerWithTimeInterval:1 target:self selector:@selector(showAnimation) userInfo:nil repeats:YES];
         
     }else if (obsolute > 10){
-        [self.indicatorImage setImage:[UIImage imageNamed:@"red_heart.png"]];
-        chart.strokeColor = NKRed;
-        chart.strokeColorGradientStart = NKRed;
+//        [self.indicatorImage setImage:[UIImage imageNamed:@"red_heart.png"]];
+//        chart.strokeColor = NKRed;
+//        chart.strokeColorGradientStart = NKRed;
         
         myTimer = [NSTimer scheduledTimerWithTimeInterval:0.5 target:self selector:@selector(showAnimation1) userInfo:nil repeats:YES];
         
@@ -106,6 +106,24 @@
         [self.indicatorImage setImage:[UIImage imageNamed:@"green_heart.png"]];
         chart.strokeColor = NKGreen;
         chart.strokeColorGradientStart = NKGreen;
+    }
+    
+    if (number > -84 && number < -74) {
+        [self.indicatorImage setImage:[UIImage imageNamed:@"action1.png"]];
+        chart.strokeColor = NKBlue;
+        chart.strokeColorGradientStart = NKBlue;
+    }else if (number > -74 && number < -64) {
+        [self.indicatorImage setImage:[UIImage imageNamed:@"action2.png"]];
+        chart.strokeColor = NKYellow;
+        chart.strokeColorGradientStart = NKYellow;
+    }else if (number > -64) {
+        [self.indicatorImage setImage:[UIImage imageNamed:@"action3.png"]];
+        chart.strokeColor = NKRed;
+        chart.strokeColorGradientStart = NKRed;
+    }else{
+        [self.indicatorImage setImage:[UIImage imageNamed:@"action1.png"]];
+        chart.strokeColor = NKBlue;
+        chart.strokeColorGradientStart = NKBlue;
     }
     
     UIImage* image = [chart drawImage];
