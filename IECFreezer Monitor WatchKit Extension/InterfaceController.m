@@ -26,7 +26,7 @@
     [super awakeWithContext:context];
     [self aTime];
     // Configure interface objects here.
-    [NSTimer scheduledTimerWithTimeInterval:10 target:self selector:@selector(aTime) userInfo:nil repeats:YES];
+    [NSTimer scheduledTimerWithTimeInterval:5 target:self selector:@selector(aTime) userInfo:nil repeats:YES];
 }
 
 - (void)willActivate {
@@ -135,7 +135,7 @@
     dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (int64_t)(0.1 * NSEC_PER_SEC)), dispatch_get_main_queue(), ^{
         if (!isRed) {
             isRed = YES;
-            [self.indicatorImage setImage:[UIImage imageNamed:@"yellow_heart.png"]];
+            [self.indicatorImage setImage:[UIImage imageNamed:@"action2.png"]];
         }else{
             isRed = NO;
             [self.indicatorImage setImage:nil];
@@ -146,7 +146,7 @@
 - (void)showAnimation1{
     dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (int64_t)(0.1 * NSEC_PER_SEC)), dispatch_get_main_queue(), ^{
         if (!isYello) {
-            [self.indicatorImage setImage:[UIImage imageNamed:@"red_heart.png"]];
+            [self.indicatorImage setImage:[UIImage imageNamed:@"action3.png"]];
             isYello = YES;
         }else{
             isYello = NO;
